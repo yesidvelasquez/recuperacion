@@ -1,0 +1,73 @@
+body{
+    background-image: url(../images/fondo.jpg);
+    
+}
+
+.title{
+    font-size: 50px;
+    color: white;
+    float: left;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.images{
+
+    padding: 1%;
+    width: 3%;
+    height: 3%;
+    float: right;
+    
+}
+
+.first-frame{
+    height: 10%;
+    width: 35%;
+    float: left;
+    margin-left: 30%;
+    margin-top: 5%;
+    
+}
+
+.galaxy{
+    
+    height: 60%;
+    width: 60%;
+    
+}
+
+.second-frame{
+    height: 10%;
+    width: 25%;
+    float: right;
+    margin-top: 6%;
+    margin-right: 8%;
+}
+
+.galaxy2{
+    
+    height: 60%;
+    width: 90%;
+    
+}
+
+.video{
+    width: 30%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+.ciclo{
+    margin-top: -15%;
+    width: 15%;
+    height: 10%;
+    margin-left: 70%;
+}
+
+.america{
+    height: 3%;
+    width: 3%;
+    float: right;
+    margin-top: -3%;
+}

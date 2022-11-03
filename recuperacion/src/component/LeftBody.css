@@ -1,0 +1,50 @@
+.left-menu{
+    background-image: url(../images/fondo2.jpg);
+    height: 100%;
+    width: 22%;
+    position: absolute;
+}
+
+.picture{
+
+    margin-top: 20%;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    
+}
+
+.profile{
+    
+    width: 25%;
+    height: 25%;
+    float: left;
+    
+}
+
+.botton{
+    
+    width: 70%;
+    height: 8%;
+    margin-top: 40%;
+    margin-left: 15%;
+    background-color: whitesmoke;
+    text-decoration-line: none;
+    float: left;
+    
+}
+
+.second-botton{
+    
+    width: 70%;
+    height: 8%;
+    margin-top: 25%;
+    margin-left: 15%;
+    background-color: whitesmoke;
+    text-decoration-line: none;
+    float: left;
+    
+}
+
